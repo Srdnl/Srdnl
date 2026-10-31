@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Srdnl
-- 👀 I’m interested in js
-- 🌱 I’m currently learning js
+- 👀 I’m interested in py
+- 🌱 I’m currently learning py
 - 💞️ I’m looking to collaborate on solo
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
